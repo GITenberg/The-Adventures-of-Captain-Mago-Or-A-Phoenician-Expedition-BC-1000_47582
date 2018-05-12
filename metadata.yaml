@@ -1,4 +1,5 @@
 _repo: The-Adventures-of-Captain-Mago-Or-A-Phoenician-Expedition-BC-1000_47582
+_version: 0.1.0
 contributor:
   illustrator:
     agent_name: Philippoteaux, P.
@@ -8,6 +9,9 @@ contributor:
     agent_name: Frewer, Ellen E.
     gutenberg_agent_id: '44384'
     url: http://www.gutenberg.org/2009/agents/44384
+covers:
+- cover_type: archival
+  image_path: 47582-h/images/cover.jpg
 creator:
   author:
     agent_name: Cahun, David-Léon
@@ -17,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/44382
     wikipedia: https://en.wikipedia.org/wiki/L%C3%A9on_Cahun
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47582#The-Adventures-of-Captain-Mago-Or-A-Phoenician-Expedition-BC-1000
 gutenberg_issued: '2014-12-07'
 gutenberg_type: Text
 identifiers:
